@@ -22,5 +22,5 @@
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=compose3&logoColor=white)
 
 ### 🧩 Frameworks/Libraries
-[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
-[![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=61DAFB)](https://gabrieltavaresmelo.github.io/portifolio)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]((https://www.linkedin.com/in/amanda-fonseca-b4189426b/))
+[![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=61DAFB)]((https://www.linkedin.com/in/amanda-fonseca-b4189426b/))
