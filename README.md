@@ -13,15 +13,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-E94D5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amandafonsecarodrigues)
 
 
-## Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-E94D5F?style=for-the-badge&logo=javascript&logoColor=white) 
+### 🧑‍💻 Languages
 
-![Java](https://img.shields.io/badge/java-%E94D5F.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
+[![c](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+[![compose](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=compose&logoColor=white)]
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
 
-![C](https://img.shields.io/badge/C-E94D5F?style=for-the-badge&logo=c&logoColor=white)
-
-## Linguagens de marcação e estilo
-![HTML5](https://img.shields.io/badge/HTML5-E94D5F?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-E94D5F?style=for-the-badge&logo=css3&logoColor=white)
-
+### 🧩 Frameworks/Libraries
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=61DAFB)](https://gabrieltavaresmelo.github.io/portifolio)
